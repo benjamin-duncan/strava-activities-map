@@ -1,0 +1,1 @@
+Website to view all Strava activities as a heatmap
